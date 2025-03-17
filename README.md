@@ -1,4 +1,5 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-profile/](http://www.linkedin.com/in/yahan-madhuhansa-99544527a))
+
 
 <!--
 **madhuhansa/madhuhansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
