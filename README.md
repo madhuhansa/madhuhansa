@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhuhansa&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="madhuhansa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhuhansa&theme=dark" alt="madhuhansa" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=madhuhansa%20&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
