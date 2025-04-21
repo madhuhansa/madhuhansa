@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhuhansa</h1>
 <h3 align="center">Passionate Python developer with a strong interest in Machine Learning. Experienced in building projects and always eager to learn and collaborate. Check out my repositories!</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and NLP**
 
 - 💬 Ask me about **Python**
 
