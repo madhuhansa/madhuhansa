@@ -1,6 +1,6 @@
 # <span style="color:#cd0057; font-weight:bold">Hi 👋, I'm Madhuhansa</span>
 
-### 💻 Passionate Python Developer | 🤖 Machine Learning Enthusiast
+### 💻 Passionate Python Developer | 🤖 Machine Learning Enthusiast.
 
 I'm a Python developer with a strong interest in Machine Learning and NLP. I enjoy building real-world projects and continuously learning new technologies. I'm always open to collaboration and feedback feel free to explore my repositories!
 
